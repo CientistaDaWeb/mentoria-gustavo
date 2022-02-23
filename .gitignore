@@ -1,0 +1,5 @@
+/.vscode
+/.idea
+/uploads/images/*
+/uploads/passwords.txt
+!/**/.gitkeep
