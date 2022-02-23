@@ -1,14 +1,14 @@
-***MENTORIA GUSTAVO***
+#MENTORIA GUSTAVO
 Esse repositório tem o intuito de ensinar o uso do git e github para o Gustavo
 
-**Instalação**
+##Instalação
 asdmkasdinasd
 asd
 asd
 a
 sd
 
-**Configuração**
+##Configuração
 asd
 asd
 a
@@ -16,9 +16,9 @@ sd
 asd
 asd
 
-**BUGS CONHECIDOS**
--as
--da
--sd
--asd
--asd
+##BUGS CONHECIDOS
+- as
+- da
+- sd
+- asd
+- asd
